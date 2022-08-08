@@ -63,6 +63,15 @@ Patch it around
 
 - You should use an `anchor` tag with an `href` to link to the next 'page'
 
+## Favorite things
+
+- Create a models folder
+- Inside the models folder create a file `favorites.js`
+- In `favorites.js` create an array of 3-10 strings of your favorite things. 
+- Import your favorite things into `app.js`
+- Create an index route for your favorite things
+- Create a show route for your favorite things
+
 ## Bonus
 
 Start or continue working on Express UFO
