@@ -69,8 +69,8 @@ Patch it around
 - Inside the models folder create a file `favorites.js`
 - In `favorites.js` create an array of 3-10 strings of your favorite things. 
 - Import your favorite things into `app.js`
-- Create an index route for your favorite things
-- Create a show route for your favorite things
+- Create an index route for your favorite things at `/favorites`
+- Create a show route for your favorite things at `/favorites/:index`
 
 ## Bonus
 
