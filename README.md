@@ -11,7 +11,6 @@ Here you will build two small projects in one Express server to keep learning ex
 - `cd` to the directory where you cloned it
 - `touch app.js`
 - `npm init -y`
-  - follow the prompts and confirm settings (this is just practice so it's ok to not
 - `npm install express`
 - `npm install nodemon --save-dev`
 
