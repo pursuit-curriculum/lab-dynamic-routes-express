@@ -71,6 +71,7 @@ Patch it around
 - Import your favorite things into `app.js`
 - Create an index route for your favorite things at `/favorites`
 - Create a show route for your favorite things at `/favorites/:index`
+- Use a query string in the `/favorites/:index` route where if `?allcaps=true` is included in the URL, send the string to the browser in all caps. 
 
 ## Bonus
 
